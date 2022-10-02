@@ -4,7 +4,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "ShurjoPaySDKV2"
-  s.version          = "1.1.1"
+  s.version          = "1.1.0"
   s.summary          = "ShurjoPaySDKV2 is a payment getway sdk"
 
   s.description      = <<-DESC
