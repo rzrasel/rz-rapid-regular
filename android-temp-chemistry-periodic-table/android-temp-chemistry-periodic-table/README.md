@@ -6,4 +6,4 @@
 - [Element Pronunciations](https://youtu.be/zRgvcc_DmN0)
 
 
-[ ] [Periodic Table of Elements for Kids | Learn all about the elements on the Periodic Table](https://youtu.be/QgaphzFWDtw)
+- [ ] [Periodic Table of Elements for Kids | Learn all about the elements on the Periodic Table](https://youtu.be/QgaphzFWDtw)
