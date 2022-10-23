@@ -12,7 +12,10 @@
 * AdorshoLipi - আদর্শলিপি
 
 
-Kotlin Coroutines Beginner Example (Android)
-https://youtu.be/F63mhZk-1-Y
+Model View View-Model (MVVM): Getting Started
+https://youtu.be/ijXjCtCXcN4
 Android MVVM Kotlin Tutorial - LiveData + ViewModel (Android Architecture Components)
 https://youtu.be/d7UxPYxgBoA
+
+Kotlin Coroutines Beginner Example (Android)
+https://youtu.be/F63mhZk-1-Y
