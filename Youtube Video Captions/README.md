@@ -13,9 +13,15 @@
 
 
 Model View View-Model (MVVM): Getting Started<br />
-https://youtu.be/ijXjCtCXcN4<br />
+https://youtu.be/ijXjCtCXcN4<br /><br />
+
+Kotlin Singleton Example with MVVM and Coroutines<br />
+https://youtu.be/PQvtdjhQEvw<br />
 Android MVVM Kotlin Tutorial - LiveData + ViewModel (Android Architecture Components)<br />
-https://youtu.be/d7UxPYxgBoA<br />
+https://youtu.be/d7UxPYxgBoA<br /><br />
+
+Migrating from LiveData to Coroutines and Flow - Jossi Wolf<br />
+https://youtu.be/9gLkVtk49Yw<br />
 
 Kotlin Coroutines Beginner Example (Android)<br />
 https://youtu.be/F63mhZk-1-Y<br />
