@@ -1,3 +1,3 @@
 package com.rzrasel.viewpagerfragmentpageradapter
 
-data class ModelObject()
+data class ModelObject(val title: String, val layoutResId: Int)

@@ -1,4 +1,3 @@
 package com.rzrasel.viewpagerpageradapter
 
-enum class ModelObject {
-}
+public class ModelObject(val title: String, val layoutResId: Int)
