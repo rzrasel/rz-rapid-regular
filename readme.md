@@ -20,6 +20,12 @@ it, simply add the following line to your Podfile:
 pod 'ShurjoPaySDKV2'
 ```
 
+### Flutter - Route Tutorial
+- [Flutter Navigation - Routes in Flutter](https://youtu.be/kU1QYiLjqdQ)
+
+
+
+
 ## Author
 
 Rz Rasel, shurjomukhidev@gmail.com
