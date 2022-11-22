@@ -19,8 +19,9 @@ class MainActivity : AppCompatActivity() {
         val adapter = CustomPagerAdapter(this)
         /*adapter.addFragment(FirstFragment(), "Category")
         adapter.addFragment(FirstFragment(), "Brand")*/
-        adapter.addFragment(FirstFragment.newInstance(1, "First Fragment"), "Category")
-        adapter.addFragment(FirstFragment.newInstance(2, "Second Fragment"), "Brand")
+        adapter.addFragment(FragmentIdea.getInstance(1, "First Fragment"), "First")
+        adapter.addFragment(FragmentAnnounce.getInstance(2, "Second Fragment"), "Second")
+        adapter.addFragment(FragmentConnection.getInstance(3, "Third Fragment"), "Third")
         //
         sysViewPager.adapter = adapter
         sysViewPager.currentItem = 0

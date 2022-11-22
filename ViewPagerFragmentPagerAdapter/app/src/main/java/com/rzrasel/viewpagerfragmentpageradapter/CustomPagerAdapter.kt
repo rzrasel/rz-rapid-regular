@@ -5,26 +5,25 @@ import androidx.fragment.app.FragmentActivity
 import androidx.fragment.app.FragmentManager
 import androidx.viewpager2.adapter.FragmentStateAdapter
 
-//class CustomPagerAdapter(fm: FragmentManager): FragmentPagerAdapter(fm) {
 class CustomPagerAdapter(activity: FragmentActivity?): FragmentStateAdapter(activity!!) {
-    private val mFragmentList: MutableList<Fragment> = ArrayList()
-    private val mFragmentTitleList: MutableList<String> = ArrayList()
+    private val fragmentList: MutableList<Fragment> = ArrayList()
+    private val titleList: MutableList<String> = ArrayList()
     //
     public fun getTabTitle(position : Int): String {
-        return mFragmentTitleList[position]
+        return titleList[position]
     }
 
     fun addFragment(fragment: Fragment, title: String) {
-        mFragmentList.add(fragment)
-        mFragmentTitleList.add(title)
+        fragmentList.add(fragment)
+        titleList.add(title)
     }
 
     override fun getItemCount(): Int {
-        return mFragmentList.size
+        return fragmentList.size
     }
 
     override fun createFragment(position: Int): Fragment {
-        return mFragmentList[position]
+        return fragmentList[position]
     }
 }
 
