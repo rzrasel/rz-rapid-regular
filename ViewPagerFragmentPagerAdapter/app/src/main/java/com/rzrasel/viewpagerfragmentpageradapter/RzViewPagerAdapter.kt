@@ -5,11 +5,11 @@ import androidx.fragment.app.FragmentActivity
 import androidx.fragment.app.FragmentManager
 import androidx.viewpager2.adapter.FragmentStateAdapter
 
-class CustomPagerAdapter(activity: FragmentActivity?): FragmentStateAdapter(activity!!) {
+class RzViewPagerAdapter(activity: FragmentActivity?): FragmentStateAdapter(activity!!) {
     private val fragmentList: MutableList<Fragment> = ArrayList()
     private val titleList: MutableList<String> = ArrayList()
     //
-    public fun getTabTitle(position : Int): String {
+    public fun getTitle(position : Int): String {
         return titleList[position]
     }
 

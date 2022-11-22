@@ -3,7 +3,6 @@ package com.rzrasel.viewpagerfragmentpageradapter
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import androidx.viewpager.widget.ViewPager
 import androidx.viewpager2.widget.ViewPager2
 
 class MainActivity : AppCompatActivity() {
@@ -16,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         //sysViewPager = findViewById<View>(R.id.sysViewPager) as ViewPager2
         sysViewPager = findViewById<View>(R.id.sysViewPager) as ViewPager2
         //
-        val adapter = CustomPagerAdapter(this)
+        val adapter = RzViewPagerAdapter(this)
         /*adapter.addFragment(FirstFragment(), "Category")
         adapter.addFragment(FirstFragment(), "Brand")*/
         adapter.addFragment(FragmentIdea.getInstance(1, "First Fragment"), "First")
