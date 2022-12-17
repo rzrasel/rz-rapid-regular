@@ -1,8 +1,3 @@
-1
-00:00:00,390 --> 00:00:10,560
-[संगीत]
-[From Asaram to Ram Rahim, the Ashram used to run a school of hypocrisy - Navin Kumar](https://youtu.be/NGz5PRadAWQ)
-
 2
 00:00:14,420 --> 00:00:21,060
 उत्तर प्रदेश में मद्रास के सर्वे होने जा
@@ -46,6 +41,13 @@
 12
 00:00:46,100 --> 00:00:49,760
 डंका पति प्रधानमंत्री
+
+
+
+1
+00:00:00,390 --> 00:00:10,560
+[संगीत]
+[From Asaram to Ram Rahim, the Ashram used to run a school of hypocrisy - Navin Kumar](https://youtu.be/NGz5PRadAWQ)
 
 13
 00:01:07,799 --> 00:01:14,180
