@@ -1,6 +1,7 @@
 1
 00:00:00,390 --> 00:00:10,560
 [संगीत]
+[From Asaram to Ram Rahim, the Ashram used to run a school of hypocrisy - Navin Kumar](https://youtu.be/NGz5PRadAWQ)
 
 2
 00:00:14,420 --> 00:00:21,060
