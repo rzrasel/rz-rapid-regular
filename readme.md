@@ -1,4 +1,5 @@
-# ShurjoPaySDKV2
+# RzRapidRegular
+rz-rapid-regular
 
 ### GIT Command
 ```git_command
@@ -16,4 +17,6 @@ git status
 
 git push --delete origin tagname
 git push --delete origin 1.0.1
+
+git remote set-url origin https://github.com/rzrasel/rz-rapid-regular.git
 ```
