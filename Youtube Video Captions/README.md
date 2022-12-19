@@ -98,3 +98,14 @@ https://youtu.be/_u1CGl7-ta0https://www.youtube.com/watch?v=MLisv_Jv6RQ
 Android MVVM Complete Example With Retrofit in Hindi | CheezyCode - #18
 https://youtu.be/D29vhvGv9Cc
 
+
+​Tk 2,600 has been credited to your A/C#153810**4001 on ​​13-12-22. Your A/C balance is TK 689,146.79. For Enquiry call: 16221
+
+
+
+
+
+
+
+
+-
