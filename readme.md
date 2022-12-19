@@ -4,7 +4,7 @@ rz-rapid-regular
 ### GIT Command
 ```git_command
 git init
-git remote add origin https://github.com/rzrasel/shurjopaysdkv2.git
+git remote add origin https://github.com/rzrasel/rz-rapid-regular.git
 git remote -v
 git fetch && git checkout master
 git add .
