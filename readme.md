@@ -1,5 +1,5 @@
-# RzRapidRegular
-rz-rapid-regular
+# RzRaseelRapidRegular
+rzrasel-rapid-regular
 
 ### GIT Command
 ```git_command
