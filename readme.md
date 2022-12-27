@@ -4,7 +4,7 @@ rz-rapid-regular
 ### GIT Command
 ```git_command
 git init
-git remote add origin https://github.com/rzrasel/rz-rapid-regular.git
+git remote add origin https://github.com/rzrasel/rzrasel-rapid-regular.git
 git remote -v
 git fetch && git checkout master
 git add .
@@ -18,5 +18,5 @@ git status
 git push --delete origin tagname
 git push --delete origin 1.0.1
 
-git remote set-url origin https://github.com/rzrasel/rz-rapid-regular.git
+git remote set-url origin https://github.com/rzrasel/rzrasel-rapid-regular.git
 ```
