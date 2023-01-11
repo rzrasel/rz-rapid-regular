@@ -306,7 +306,7 @@ multiple people contributing to the same
 code base
 
 77
-00:02:52,879 --> 00:02:54,000 Label - 77 - 02:52 ------------------------|Starting
+00:02:52,879 --> 00:02:54,000 Label - 77 - 02:52 ------------------------|
 again
 
 78
@@ -394,7 +394,7 @@ how uh vcs solves these issues or of
 collaboration
 
 99
-00:03:42,239 --> 00:03:44,959
+00:03:42,239 --> 00:03:44,959 Label - 99 - 03:42 ------------------------|
 problem number theo three was uh version
 
 100
@@ -402,7 +402,7 @@ problem number theo three was uh version
 tracking
 
 101
-00:03:47,040 --> 00:03:50,560
+00:03:47,040 --> 00:03:50,560 Label - 101 - 03:47 ------------------------|
 in version control system uh you have
 
 102
@@ -414,7 +414,7 @@ all of your
 changes tracked down through different
 
 104
-00:03:54,560 --> 00:03:56,400
+00:03:54,560 --> 00:03:56,400 Label - 104 - 03:56 ------------------------|
 versions of the same file so let's say
 
 105
@@ -426,7 +426,7 @@ you have this file called foo dot py
 which has some
 
 107
-00:04:00,799 --> 00:04:03,120
+00:04:00,799 --> 00:04:03,120 Label - 107 - 04:03 ------------------------|Starting
 uh a function called sum
 
 108
@@ -438,11 +438,11 @@ and let's say right now the function
 looks like this it just returns a plus b
 
 110
-00:04:07,920 --> 00:04:10,000
+00:04:07,920 --> 00:04:10,000 Label - 110 - 04:07 ------------------------|Starting
 but if you make some changes later on
 
 111
-00:04:10,000 --> 00:04:12,239
+00:04:10,000 --> 00:04:12,239 Label - 111 - 04:10 ------------------------|
 and if you save it it will be saved as
 
 112
@@ -450,7 +450,7 @@ and if you save it it will be saved as
 version number two i was number three
 
 113
-00:04:14,640 --> 00:04:17,600
+00:04:14,640 --> 00:04:17,600 Label - 113 - 04:14 ------------------------|
 and so on so at any given point of time
 
 114
@@ -466,7 +466,7 @@ previous old version which was working
 okay you can do it very easily
 
 117
-00:04:26,639 --> 00:04:29,040
+00:04:26,639 --> 00:04:29,040 Label - 117 - 04:26 ------------------------|
 now there are different
 
 118
@@ -478,7 +478,7 @@ version control systems available in the
 market
 
 120
-00:04:31,919 --> 00:04:33,440
+00:04:31,919 --> 00:04:33,440 Label - 120 - 04:31 ------------------------|
 for example git
 
 121
@@ -486,7 +486,7 @@ for example git
 mercurial subversion etc
 
 122
-00:04:37,199 --> 00:04:40,639
+00:04:37,199 --> 00:04:40,639 Label - 122 - 04:37 ------------------------|
 but git is by far the best version
 
 123
