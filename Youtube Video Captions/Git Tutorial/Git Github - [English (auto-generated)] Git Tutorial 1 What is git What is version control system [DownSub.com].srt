@@ -522,7 +522,7 @@ your local computer
 as well as it is maintained on the cloud
 
 131
-00:04:55,680 --> 00:04:58,479
+00:04:55,680 --> 00:04:58,479 Label - 131 - 04:55 ------------------------|
 so let's say you are
 
 132
@@ -542,7 +542,7 @@ you still have an ability to try
 to track the versions
 
 136
-00:05:07,919 --> 00:05:09,680
+00:05:07,919 --> 00:05:09,680 Label - 136 - 05:07 ------------------------|
 uh and whenever you have intercon
 
 137
@@ -558,7 +558,7 @@ with your uh remote which is your
 copy in the cloud
 
 140
-00:05:17,840 --> 00:05:20,960
+00:05:17,840 --> 00:05:20,960 Label - 140 - 05:17 ------------------------|
 the second biggest benefit of using it
 
 141
